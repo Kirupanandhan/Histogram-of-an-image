@@ -7,22 +7,21 @@ Anaconda - Python 3.7
 
 ## Algorithm:
 ### Step1:
-<br>
+Import cv2 and matplotlib.pyplot packages.
 
 ### Step2:
-<br>
+Read the images using imread()function.
 
 ### Step3:
-<br>
+Using cv2.calcHist find Histogram of the images.
 
 ### Step4:
-<br>
+Using cv2.equalizeHist find Equalization of Histogram.
 
 ### Step5:
-<br>
-
+Run the program and execute the output.
 ## Program:
-```python
+```
 # Developed By:
 # Register Number:
 import cv2
